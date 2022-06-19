@@ -1,0 +1,5 @@
+<script src="https://kit.fontawesome.com/63a26b38d6.js" crossorigin="anonymous"></script>
+
+<i class="fas fa-eye fa-3x"></i>
+<i class="far fa-hand-peace fa-3x"></i>
+<i class="fas fa-paint-brush fa-3x"></i>
